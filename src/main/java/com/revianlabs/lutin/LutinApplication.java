@@ -10,4 +10,5 @@ public class LutinApplication {
 		SpringApplication.run(LutinApplication.class, args);
 	}
 
+
 }
